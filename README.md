@@ -28,8 +28,6 @@ Let's say we have two React components (JS-files) that we want to compare.
 
 #### component1.js
 ```
-// component1.js
-
 function App() {
   return (
     <div className="App">
@@ -46,8 +44,6 @@ function App() {
 
 #### component2.js
 ```
-// component2.js
-
 function Home() {
   return (
     <div className="Home">
