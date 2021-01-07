@@ -66,8 +66,7 @@ filediff component1.js component2.js
 
 The utility then provides us with the following result
 
-[Example - React component code differences]
-(url)<img width="478" alt="react" src="https://user-images.githubusercontent.com/9132742/103879762-918c9680-50d8-11eb-87cc-d9eef8f5869e.png">
+<img width="478" alt="react" src="https://user-images.githubusercontent.com/9132742/103879762-918c9680-50d8-11eb-87cc-d9eef8f5869e.png">
 
 ## License
 
