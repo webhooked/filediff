@@ -1,6 +1,6 @@
 # FileDiff
 
-A file difference checker written in Go.
+A CLI file difference checker written in Go.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ You need Go installed on your device in order to install this utility.
 go get github.com/webhooked/filediff
 ```
 
-## Usage guide
+## CLI Usage guide
 
 ```
 filediff file1.css file2.css
@@ -58,16 +58,16 @@ function Home() {
 }
 ```
 
-We use the filediff utility to display the differences.
+We use FileDiff to display the differences.
 
 ```
 filediff component1.js component2.js
 ```
 
-The utility then provides us with the following result
+FileDiff then provides us with the following result:
 
 <img width="478" alt="react" src="https://user-images.githubusercontent.com/9132742/103879762-918c9680-50d8-11eb-87cc-d9eef8f5869e.png">
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
